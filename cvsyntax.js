@@ -37,6 +37,7 @@ document.getElementById("botonotroscursos").onclick = function () {
     document.getElementById("otroscursos").style.display = "inline"
 }
 
+
 document.getElementById("botoncontacto").onclick = function () {
     ocultar ();
     document.getElementById("contacto").style.display = "inline"

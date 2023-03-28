@@ -91,7 +91,7 @@ header {
 }
 
 .footerdecv {
-    position: fixed;
+    position: inline-end;
     bottom: 0%;
     left: 30%;
     justify-content: center;
